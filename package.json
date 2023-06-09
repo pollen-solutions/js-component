@@ -1,0 +1,17 @@
+{
+  "name": "@pollen-solutions/component",
+  "version": "v0.0.0",
+  "description": "Pollen Solutions - JS - Component",
+  "main": "index.js",
+  "module": "index.esm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pollen-solutions",
+    "js",
+    "component"
+  ],
+  "author": "Jordy Manner<jordy@presstify.com>",
+  "license": "MIT"
+}
